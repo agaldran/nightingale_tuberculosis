@@ -1,4 +1,4 @@
-* Overview:
+# Overview:
 This repository holds the code for the second place in the Nightingale competition on [active tuberculosis bacilli detection](https://app.nightingalescience.org/contests/m3rl61qq21wo).
 The data needed to train all models lives in the Nightingale platform. The structure of this project is relatively straightforward, though.
 A jupyter notebook shows how I split the data into five train/validation sets.
